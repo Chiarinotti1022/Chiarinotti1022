@@ -9,7 +9,7 @@
   </a>
 </div><br>
 
-<h1>Linguágens que mais gosto de utilizar</h1><br>
+<h1>Linguagens que mais gosto de utilizar</h1><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
