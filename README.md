@@ -8,7 +8,7 @@
 
 <div style="display: flex; gap: 10px">
   <a href="https://github.com/Chiarinotti1022/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Chiarinotti1022&theme=dark" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/Chiarinotti1022/convoychat">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiarinotti1022&layout=compact&langs_count=8&card_width=320&theme=dark" />
@@ -18,10 +18,10 @@
 
 <div style="display: inline_block">
   <h1>Linguagens que mais gosto de utilizar</h1>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br><br>
 
 <p>Sou apaixonado por programação web e desenvolvimento de jogos, áreas que despertam minha criatividade e vontade de aprender constantemente. Atualmente, sou estudante de engenharia da computação e estou ansioso para dar os primeiros passos na minha carreira profissional, aplicando na prática tudo o que venho estudando e desenvolvendo ao longo do tempo.
