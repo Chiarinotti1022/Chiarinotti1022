@@ -8,7 +8,7 @@
 
 <div style="display: flex; gap: 10px">
   <a href="https://github.com/Chiarinotti1022/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Chiarinotti1022&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/Chiarinotti1022/convoychat">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiarinotti1022&layout=compact&langs_count=8&card_width=320&theme=dark" />
