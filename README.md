@@ -25,10 +25,8 @@
 </div><br><br>
 
 <p>Sou apaixonado por programação web e desenvolvimento de jogos, áreas que despertam minha criatividade e vontade de aprender constantemente. Atualmente, sou estudante de engenharia da computação e estou ansioso para dar os primeiros passos na minha carreira profissional, aplicando na prática tudo o que venho estudando e desenvolvendo ao longo do tempo.<br><br>
-
-<!--
+  
 <div style="display: flex; gap: 10px">
   <a href="https://github.com/Chiarinotti1022/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=Chiarinotti1022&repo=github-readme-stats&theme=dark"></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiarinotti1022&repo=Chiarinotti1022&theme=dark"></a>
 </div>
--->
