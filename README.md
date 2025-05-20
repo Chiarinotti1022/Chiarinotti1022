@@ -7,12 +7,18 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 </div><br><br>
 
-<div style="display: flex; gap: 10px">
-  <a href="https://github.com/Chiarinotti1022" target="_blank">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=Chiarinotti1022&show_icons=true&theme=dark"/></a>
-  <a href="https://github.com/Chiarinotti1022" target="_blank">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiarinotti1022&layout=compact&langs_count=8&theme=dark" alt="Top Langs"></a>
-</div><br>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Chiarinotti1022" target="_blank">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Chiarinotti1022&show_icons=true&theme=dark"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/Chiarinotti1022" target="_blank">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiarinotti1022&layout=compact&langs_count=8&theme=dark"/></a>
+    </td>
+  </tr>
+</table>
 
 <h1>Linguagens que mais gosto de utilizar</h1>
 
