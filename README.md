@@ -11,11 +11,11 @@
   <tr>
     <td>
       <a href="https://github.com/Chiarinotti1022" target="_blank">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Chiarinotti1022&show_icons=true&theme=dark"/></a>
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=Chiarinotti1022&show_icons=true&theme=dark"/></a>
     </td>
     <td>
       <a href="https://github.com/Chiarinotti1022" target="_blank">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiarinotti1022&layout=compact&langs_count=8&theme=dark"/></a>
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiarinotti1022&layout=compact&langs_count=8&theme=dark"/></a>
     </td>
   </tr>
 </table>
