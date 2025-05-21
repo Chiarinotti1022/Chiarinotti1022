@@ -1,3 +1,6 @@
+<table>
+<tr>
+<td>
 <div align="center">
   <h1>Olá! Eu sou o Luiz Chiarinotti! 👋</h1>
   
@@ -10,7 +13,7 @@
 </div><br>
 
 <div align="center" style="display: inline_block">
-  <h1>Linguagens que mais gosto de utilizar</h1>
+  <h1>Linguagens que mais gosto de utilizar ⚙</h1>
   
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -31,7 +34,9 @@
     </td>
   </tr>
 </table>
-
+</td>
+</tr>
+</table>
 <!--
 <div style="display: flex; gap: 10px">
   <a href="https://github.com/Chiarinotti1022/github-readme-stats">
