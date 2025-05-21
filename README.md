@@ -1,6 +1,3 @@
-<table style="width: 100%;">
-<tr>
-<td>
 <div align="center">
   <h1>Olá! Eu sou o Luiz Chiarinotti! 👋</h1>
   
@@ -34,9 +31,7 @@
     </td>
   </tr>
 </table>
-</td>
-</tr>
-</table>
+
 <!--
 <div style="display: flex; gap: 10px">
   <a href="https://github.com/Chiarinotti1022/github-readme-stats">
