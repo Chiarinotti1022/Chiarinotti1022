@@ -19,13 +19,18 @@
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div><br><br>
 
-<p align="center">
-  <a href="https://github.com/Chiarinotti1022">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chiarinotti1022&show_icons=true&theme=dark" /></a>
-  <a href="https://github.com/Chiarinotti1022">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiarinotti1022&layout=compact&langs_count=8&theme=dark" /></a>
-</p>
-
+<table align="center">
+<tr>
+  <td>
+    <a href="https://github.com/Chiarinotti1022">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Chiarinotti1022&show_icons=true&theme=dark" /></a>
+  </td>
+  <td>
+    <a href="https://github.com/Chiarinotti1022">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiarinotti1022&layout=compact&langs_count=8&theme=dark" /></a>
+  </td>
+</tr>
+</table>
 
 <!--
 <div style="display: flex; gap: 10px">
